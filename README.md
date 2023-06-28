@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Diego 👋
+
+![Diego Maximiliano Sapia banner](https://github.com/Diegosapia/Diegosapia/assets/81770023/acf80996-e09b-454c-9dcf-972af22cc615)
+
+```js
+const DiegoSapia = {
+pronouns: "he" | "him",
+code: [Javascript, Html, Css],
+tools: [React, Redux ,Node ,PostgreSQL ,Sequelize ,Express ],
+}
+```
+
+
+
 
 <!--
 **Diegosapia/Diegosapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
