@@ -6,7 +6,7 @@
 const DiegoSapia = {
 pronouns: "he" | "him",
 code: [Javascript, Html, Css],
-tools: [React, Redux ,Node ,PostgreSQL ,Sequelize ,Express ],
+tools: [React, Redux ,Node ,PostgreSQL ,Sequelize ,Prisma ,Express ],
 }
 ```
 
