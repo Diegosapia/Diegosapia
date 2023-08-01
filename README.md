@@ -13,6 +13,12 @@ I am Diego Sapia, an Argentine from Buenos Aires. Since childhood, I have been f
 
 For the past six years, I have been living in England, and I am now eager to expand my professional career by seeking opportunities to learn new technologies and develop web applications. I am passionate about staying at the forefront of innovation and contributing to the ever-evolving tech landscape.
 
+I am highly interested in continuous growth and learning, and I actively seek out opportunities to acquire new skills and stay updated with the latest advancements in the tech industry. My goal is to make a positive impact through my work and contribute to the development of cutting-edge solutions that benefit users worldwide.
+
+            Contact me:    sdiegoss@gmail.com  
+            Linkedin :     https://www.linkedin.com/in/diegosapia/
+
+
 
 <!--
 **Diegosapia/Diegosapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
