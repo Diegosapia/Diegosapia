@@ -15,8 +15,6 @@ For the past six years, I have been living in England, and I am now eager to exp
 
 I am highly interested in continuous growth and learning, and I actively seek out opportunities to acquire new skills and stay updated with the latest advancements in the tech industry. My goal is to make a positive impact through my work and contribute to the development of cutting-edge solutions that benefit users worldwide.
 
-            <a href="e-mail:sdiegoss@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/SEND_MAIL-D14836?style=for-the-badge&logo=maildotru&logoColor=white%22height=%2232px" />
 
 
 <!--
