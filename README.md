@@ -9,11 +9,17 @@ code: [Javascript, Html, Css],
 tools: [React, Redux ,Node ,PostgreSQL ,Sequelize ,Prisma ,Express ],
 }
 ```
-I am Diego Sapia, an Argentine from Buenos Aires. Since childhood, I have been fascinated by the world of tech, technology, and engineering. Over the years, I have immersed myself in this field and now find myself working on real projects and learning extensively. Achieving this significant personal and professional goal has been immensely rewarding.
+I am Diego Sapia, an Argentine from Buenos Aires, with a passion for the world of tech, technology, and engineering that has driven me since childhood. Throughout the years, I have dedicated myself to immersing in this field, working on real projects, and continuously expanding my knowledge. This journey has been incredibly rewarding and has led me to achieve significant personal and professional growth.
 
-For the past six years, I have been living in England, and I am now eager to expand my professional career by seeking opportunities to learn new technologies and develop web applications. I am passionate about staying at the forefront of innovation and contributing to the ever-evolving tech landscape.
+Having spent the last six years in England, I am now excited to take my professional career to new heights by exploring opportunities to learn and develop web applications using the latest technologies. Staying at the forefront of innovation is my priority, and I am eager to contribute to the ever-evolving tech landscape.
 
-I am highly interested in continuous growth and learning, and I actively seek out opportunities to acquire new skills and stay updated with the latest advancements in the tech industry. My goal is to make a positive impact through my work and contribute to the development of cutting-edge solutions that benefit users worldwide.
+I am deeply committed to continuous growth and self-improvement. Hence, I actively seek out chances to acquire new skills and stay updated with the latest advancements in the tech industry. My ultimate goal is to make a positive impact through my work, contributing to the development of cutting-edge solutions that benefit users worldwide.
+
+If you are interested in collaborating or considering me for any job opportunities, feel free to contact me at diegosapia@yahoo.com. I am open to new connections and excited about potential collaborations and professional engagements.
+
+
+
+
 
 
 
