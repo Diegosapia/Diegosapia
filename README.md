@@ -5,8 +5,8 @@
 ```js
 const DiegoSapia = {
 pronouns: "he" | "him",
-code: [Javascript, Html, Css],
-tools: [React, Redux ,Node ,PostgreSQL ,Sequelize ,Prisma ,Express ],
+code: [JavaScript, TypeScript, Html, Css],
+tools: [React, Next.js, Figma, Redux ,Node ,PostgreSQL ,Sequelize ,Prisma ,Express ],
 }
 ```
 I am Diego Sapia, an Argentine from Buenos Aires, with a passion for the world of tech, technology, and engineering that has driven me since childhood. Throughout the years, I have dedicated myself to immersing in this field, working on real projects, and continuously expanding my knowledge. This journey has been incredibly rewarding and has led me to achieve significant personal and professional growth.
